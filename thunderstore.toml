@@ -5,13 +5,13 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "HadesSpeedrunning"
 name = "SpeedrunTimer"
-versionNumber = "0.0.1"
+versionNumber = "0.0.2"
 description = "Tracks and exposes RTA and LRT times for attempts."
-websiteUrl = "https://github.com/Museus/h2-SpeedrunTimer"
+websiteUrl = "https://github.com/Hades-Speedrunning/h2-SpeedrunTimer"
 containsNsfwContent = false
 
 [package.dependencies]
-Hell2Modding-Hell2Modding = "1.0.70"
+Hell2Modding-Hell2Modding = "1.0.89"
 LuaENVY-ENVY = "1.2.0"
 SGG_Modding-Chalk = "2.1.1"
 SGG_Modding-ReLoad = "1.0.2"
