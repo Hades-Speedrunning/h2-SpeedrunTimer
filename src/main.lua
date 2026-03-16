@@ -33,6 +33,8 @@ chalk = mods["SGG_Modding-Chalk"]
 ---@module 'SGG_Modding-ReLoad'
 reload = mods['SGG_Modding-ReLoad']
 
+---@module 'HadesSpeedrunning-PrintUtil'
+printutil = rom.mods["HadesSpeedrunning-PrintUtil"]
 ---@module 'config'
 config = chalk.auto 'config.lua'
 -- ^ this updates our `.cfg` file in the config folder!
