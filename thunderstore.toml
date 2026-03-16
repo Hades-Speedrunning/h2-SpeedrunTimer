@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "HadesSpeedrunning"
 name = "SpeedrunTimer"
-versionNumber = "0.0.2"
+versionNumber = "0.0.3"
 description = "Tracks and exposes RTA and LRT times for attempts."
 websiteUrl = "https://github.com/Hades-Speedrunning/h2-SpeedrunTimer"
 containsNsfwContent = false
